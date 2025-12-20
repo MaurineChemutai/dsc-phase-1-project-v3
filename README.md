@@ -67,15 +67,6 @@ Together, these insights provide a strong foundation for safer, more cost-effect
 
 ---
 
-## Repository Structure
-├── data/
-│ └── aviation_data.csv
-├── notebooks/
-│ └── student.ipynb
-├── presentation/
-│ └── presentation.pdf
-├── .gitignore
-└── README.md
 
 
 ---
