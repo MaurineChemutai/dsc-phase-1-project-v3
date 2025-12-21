@@ -39,9 +39,13 @@ Given the business objective of assessing aircraft-related risk, the analysis em
 
 3. **Average Accident Severity by Engine Type**  
    Highlights engine configurations linked to safer outcomes.
+   <img width="696" height="535" alt="image" src="https://github.com/user-attachments/assets/96ac6886-8256-4117-bf33-79857b288153" />
 
-4. **Average Accident Severity by Weather Condition**  
-   Demonstrates the impact of environmental factors on aviation risk.
+
+5. **Average Accident Severity by Weather Condition**  
+   Demonstrates the impact of weather conditions on aviation risk.
+   <img width="696" height="514" alt="image" src="https://github.com/user-attachments/assets/6ac16918-7ed9-4b63-b329-d7447f9241cf" />
+
 
 These same visualizations appear in the final notebook and presentation.
 
