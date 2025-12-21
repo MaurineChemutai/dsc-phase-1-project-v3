@@ -34,11 +34,13 @@ Given the business objective of assessing aircraft-related risk, the analysis em
 ### Key Visualizations
 1. **Average Accident Severity by Aircraft Make**  
    Identifies manufacturers associated with lower historical risk.
+   <img width="695" height="539" alt="image" src="https://github.com/user-attachments/assets/a61562b5-de83-4a9b-98f7-f47b4eb8b7e4" />
 
-2. **Average Accident Severity by Engine Type**  
+
+3. **Average Accident Severity by Engine Type**  
    Highlights engine configurations linked to safer outcomes.
 
-3. **Average Accident Severity by Weather Condition**  
+4. **Average Accident Severity by Weather Condition**  
    Demonstrates the impact of environmental factors on aviation risk.
 
 These same visualizations appear in the final notebook and presentation.
