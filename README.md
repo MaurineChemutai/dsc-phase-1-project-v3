@@ -5,33 +5,24 @@ This project analyzes historical aviation accident data to support data-driven d
 
 Using data cleaning, aggregation, and visualization techniques, the project transforms complex accident records into clear insights that help business stakeholders minimize safety risks, operational costs, and long-term exposure as the company diversifies into aviation.
 
----
 
 ## Business Understanding
 
 
 ### Business Problem
-The company plans to purchase and operate aircraft for commercial and private use but lacks prior experience in aviation risk assessment. Poor aircraft selection could lead to increased accident risk, higher insurance premiums, operational disruptions, and reputational damage.
+The company plans to purchase and operate aircraft for commercial and private use but lacks prior experience in aviation risk assessment. Poor aircraft selection could lead to increased accident risk, higher insurance premiums and operational disruptions.
 
 ### Key Business Question
 - What data-driven strategies can reduce risk when entering the aviation market?
 
----
 
 ## Data Understanding and Analysis
 
-### Data Source
-- National Transportation Safety Board (NTSB)
-- Civil aviation accident and incident data
-- Coverage: United States and international waters
-- Time period: 1962–2023
+### Data Understanding
 
-### Data Description
-The dataset includes information on:
-- Aircraft make and model
-- Engine type
-- Weather conditions at the time of accidents
-- Accident severity outcomes
+The dataset is sourced from the National Transportation Safety Board (NTSB) and contains detailed records of civil aviation accidents and incidents spanning multiple decades. It includes a broad range of variables describing aircraft characteristics, operational conditions, environmental factors, injury outcomes, and accident investigation details.
+
+Given the business objective of assessing aircraft-related risk, the analysis emphasizes understanding overall safety patterns rather than examining every available variable. The richness of the dataset allows for aggregation and comparison across different aircraft and operating conditions, supporting insights that are relevant to strategic decision-making in aviation.
 
 ### Analytical Approach
 - Cleaned and standardized raw data to ensure reliability
