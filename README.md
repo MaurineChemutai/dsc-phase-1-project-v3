@@ -50,6 +50,11 @@ Given the business objective of assessing aircraft-related risk, the analysis em
 These same visualizations appear in the final notebook and presentation.
 
 ---
+## Interactive Dashboard
+An interactive Tableau dashboard is created to allow stakeholders to explore aviation risk patterns dynamically by aircraft characteristics and operating conditions.
+
+View the interactive Tableau dashboard here:  
+Tableau Public Dashboard Link: https://public.tableau.com/views/tableauvisualizationphase1project/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Conclusion
 
