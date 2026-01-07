@@ -56,16 +56,20 @@ An interactive Tableau dashboard is created to allow stakeholders to explore avi
 View the interactive Tableau dashboard here:  
 Tableau Public Dashboard Link: https://public.tableau.com/views/tableauvisualizationphase1project/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Recommendations
+
+### Prioritize Aircraft Manufacturers with Lower Historical Severity
+Analysis shows that manufacturers like Grumman-Schweizer and AVIATEK have lower average accident severity compared to Aviat and Waco. Therefore, the company should prioritize acquiring aircraft from manufacturers with historically safer outcomes, which can reduce operational disruptions, lower insurance costs, and enhance overall safety.
+
+### Select Engine Types with Lower Accident Severity
+Analysis indicates that single-engine piston aircraft consistently show lower accident severity compared to more complex engine types. Therefore, the company should focus on simpler, historically safer engine types, which can minimize mechanical complexity, lower maintenance costs, and reduce the risk of severe accidents while building operational experience.
+
+### Implement Weather-Based Operational Policies
+Analysis shows that accidents occurring in IMC or adverse/unknown weather conditions have substantially higher severity than those in VMC. Therefore, the company should enforce policies that limit flights in poor weather, supported by enhanced monitoring, conservative go/no-go rules, and pilot training focused on weather risk management, reducing environmental risk and improving safety.
+
 ## Conclusion
+Aviation risk varies across aircraft manufacturers, engine types, and operating conditions. By selecting manufacturers and engine types with lower historical severity and implementing strict weather-based operational policies, the company can reduce accident severity, control costs, and ensure safer, more reliable operations. These recommendations provide a clear, data-driven strategy for effective entry into the aviation market.
 
-The analysis reveals that aviation risk varies significantly across aircraft manufacturers, engine types, and operating conditions. Certain aircraft makes and engine configurations consistently show lower accident severity, indicating stronger safety performance over time. Additionally, adverse weather conditions substantially increase accident severity, underscoring the need for operational risk controls alongside aircraft selection.
-
-Based on these findings, three core recommendations emerge:
-1. Prioritize aircraft manufacturers with historically lower severity outcomes.
-2. Select engine types associated with reduced accident severity.
-3. Implement weather-based operational policies to mitigate environmental risk.
-
-Together, these insights provide a strong foundation for safer, more cost-effective entry into the aviation industry.
 
 ---
 
